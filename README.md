@@ -42,10 +42,10 @@ Mi experiencia previa liderando operaciones técnicas, inventarios y posventa en
 
 | Proyecto | Descripción |
 | :--- | :--- |
-| 🚗 **[AutoSmart-Retention](https://github.com/joseariasduran/AutoSmart-Retention)** | Modelo de Machine Learning desarrollado para predecir la tasa de abandono de clientes (*churn*) en el sector automotriz. Alcancé un **88% de precisión**, enfocado en estrategias de retención y optimización de la experiencia posventa. |
-| 🛢️ **[OilyGiant](https://github.com/joseariasduran/oilygiant-risk-analysis)** | Identificación estratégica de 200 nuevas ubicaciones de pozos petroleros. Utilicé técnicas de *bootstrapping* para la estimación de ganancias y mitigación del riesgo financiero. |
-| 🥇 **[Gold Recovery](https://github.com/joseariasduran/gold-recovery-optimization)** | Creación de un modelo predictivo para estimar la concentración de oro extraído de un mineral durante el proceso de purificación. |
-| 🚖 **[Sweet Lift Taxi](https://github.com/joseariasduran/taxi-demand-prediction)** | Análisis de series temporales para predecir la demanda de taxis por hora en aeropuertos, ayudando a optimizar la disponibilidad y logística de la flota. |
+| 🚗 **[AutoSmart-Retention](https://github.com/joseariasduran/proyecto_automotriz)** | Modelo de Machine Learning desarrollado para predecir la tasa de abandono de clientes (*churn*) en el sector automotriz. Alcancé un **88% de precisión**, enfocado en estrategias de retención y optimización de la experiencia posventa. |
+| 🛢️ **[OilyGiant](https://github.com/joseariasduran/proyecto_petrolero)** | Identificación estratégica de 200 nuevas ubicaciones de pozos petroleros. Utilicé técnicas de *bootstrapping* para la estimación de ganancias y mitigación del riesgo financiero. |
+| 🥇 **[Gold Recovery](https://github.com/joseariasduran/proyecto_mineria)** | Creación de un modelo predictivo para estimar la concentración de oro extraído de un mineral durante el proceso de purificación. |
+| 🚖 **[Sweet Lift Taxi](https://github.com/joseariasduran/proyecto_taxi)** | Análisis de series temporales para predecir la demanda de taxis por hora en aeropuertos, ayudando a optimizar la disponibilidad y logística de la flota. |
 
 ---
 
