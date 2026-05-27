@@ -51,11 +51,11 @@ Mi experiencia previa liderando operaciones técnicas, inventarios y posventa en
 
 ### 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joseariasduran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de José" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseariasduran&theme=tokyonight&hide_border=true&background=0D1117" alt="Racha de GitHub" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseariasduran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes más usados" width="48%" />
-</p>
+[![Estadísticas de José](https://github-readme-stats.vercel.app/api?username=joseariasduran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/joseariasduran)
+[![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=joseariasduran&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/joseariasduran)
+
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=joseariasduran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/joseariasduran)
+
+</div>
