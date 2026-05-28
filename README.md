@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="https://github.com/joseariasduran/joseariasduran/blob/main/README.md">🇪🇸 ESP</a> | <a href="https://github.com/joseariasduran/joseariasduran/blob/main/README-en.md">🇬🇧 ENG</a>
+</div>
+
 <h1 align="center">¡Hola! Soy José Arias Durán 👋</h1>
 
 <h3 align="center">Ingeniero Industrial y de Sistemas | Data Scientist | Analista de Procesos y Datos</h3>
