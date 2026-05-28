@@ -63,7 +63,7 @@ Mi experiencia previa liderando operaciones técnicas, inventarios y posventa en
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseariasduran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Lenguajes más usados" width="48%" />
 </p>
 
-**Workflows & Colaboración:**
+### 👥 Workflows & Colaboración:
 <p align="left">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white" alt="Confluence" />
