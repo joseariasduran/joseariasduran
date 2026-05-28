@@ -61,16 +61,11 @@ My experience leading technical operations, inventory control, and after-sales s
 ### 🚀 Featured Projects
 
 | Project | Description | Algorithms / Tools |
-
-:--- |:--- |:--- |
-
-🚗 **[AutoSmart-Retention](https://github.com/joseariasduran/AutoSmart-Retention)** | Machine Learning model focused on predicting customer churn in the automotive sector. **88% accuracy**, designed for decision-making in after-sales retention strategies. | Python, Scikit-Learn, XGBoost, Classification |
-
-🛢️ **[OilyGiant](https://github.com/joseariasduran/OilyGiant)** | Identification of 200 optimal locations for oil wells using bootstrapping techniques. Mitigation of financial risks and maximization of net profit. | Python, Bootstrapping, Risk Analysis |
-
-🥇 **[Gold Recovery](https://github.com/joseariasduran/Gold-Recovery)** | Predictive model to estimate gold concentration in mining purification processes, optimizing production parameters in real time. | Python, Advanced Regression, EDA |
-
-🚖 **[Sweet Lift Taxi](https://github.com/joseariasduran/Sweet-Lift-Taxi)** | Hourly taxi demand prediction at airports using time series analysis to optimize fleet logistics during peak hours. | Python, Time Series, LightGBM |
+|:--- |:--- |:--- |
+|🚗 **[AutoSmart-Retention](https://github.com/joseariasduran/AutoSmart-Retention)** | Machine Learning model focused on predicting customer churn in the automotive sector. **88% accuracy**, designed for decision-making in after-sales retention strategies. | Python, Scikit-Learn, XGBoost, Classification |
+|🛢️ **[OilyGiant](https://github.com/joseariasduran/OilyGiant)** | Identification of 200 optimal locations for oil wells using bootstrapping techniques. Mitigation of financial risks and maximization of net profit. | Python, Bootstrapping, Risk Analysis |
+|🥇 **[Gold Recovery](https://github.com/joseariasduran/Gold-Recovery)** | Predictive model to estimate gold concentration in mining purification processes, optimizing production parameters in real time. | Python, Advanced Regression, EDA |
+|🚖 **[Sweet Lift Taxi](https://github.com/joseariasduran/Sweet-Lift-Taxi)** | Hourly taxi demand prediction at airports using time series analysis to optimize fleet logistics during peak hours. | Python, Time Series, LightGBM |
 
 ---
 
