@@ -19,6 +19,9 @@ Mi experiencia previa liderando operaciones técnicas, inventarios y posventa en
 * 🌍 **Ubicación:** Guasave, Sinaloa, México.
 * 💬 **Pregúntame sobre:** Análisis de datos, modelos de predicción, optimización de negocios y el stack de Python/SQL.
 * 📫 **Cómo contactarme:** jose.aduran@live.com
+* 🎓 **Formación:** Graduado del bootcamp intensivo de Data Science en TripleTen.
+* 🌐 **Comunidad:** Miembro activo del Google Developer Program.
+* 🎯 **Buscando oportunidades en:** Sectores de Consultoría Tecnológica, Fintech, Healthtech y Banca, donde pueda aportar valor inmediato a través del análisis predictivo.
 
 ---
 
@@ -58,4 +61,12 @@ Mi experiencia previa liderando operaciones técnicas, inventarios y posventa en
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseariasduran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Lenguajes más usados" width="48%" />
+</p>
+
+**Workflows & Colaboración:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white" alt="Confluence" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Loom-5551FF?style=for-the-badge&logo=loom&logoColor=white" alt="Loom" />
 </p>
