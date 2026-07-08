@@ -4,7 +4,7 @@
 
 <h1 align="center">¡Hola! Soy José Arias Durán 👋</h1>
 
-<h3 align="center">Ingeniero Industrial y de Sistemas | Data Scientist | Analista de Procesos y Datos</h3>
+<h3 align="center">Business Intelligence Analytics | Data Scientist | Analista de Procesos y Datos</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/joseariasduran" target="_blank">
