@@ -42,6 +42,7 @@ My experience leading technical operations, inventory control, and after-sales s
 **Business Intelligence & Visualization:**
 <p align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/DAX-00758F?style=for-the-badge&logo=powerbi&logoColor=white" alt="DAX" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=googlelookerstudio&logoColor=white" alt="Looker Studio" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
@@ -63,7 +64,7 @@ My experience leading technical operations, inventory control, and after-sales s
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" /> </a>
 </p>
 <p align="left">
-  <i>*Interactive Dashboards, Dimensional Modeling, EDA, and Predictive Optimization with XGBoost / LightGBM.*</i>
+  <i>*Interactive Dashboards, Advanced Calculations with DAX, Dimensional Modeling, EDA, and Predictive Optimization with XGBoost / LightGBM.*</i>
 </p>
 
 **Workflows & Project Management:**
@@ -73,6 +74,7 @@ My experience leading technical operations, inventory control, and after-sales s
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   <img src="https://img.shields.io/badge/Loom-5551FF?style=for-the-badge&logo=loom&logoColor=white" alt="Loom" />
 </p>
+
 ---
 
 ### 🚀 Featured Projects
