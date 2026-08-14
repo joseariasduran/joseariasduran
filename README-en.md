@@ -18,22 +18,22 @@
 
 ### 👨‍💻 About Me
 
-I am a professional with a solid background in **Industrial and Systems Engineering**, specialized in service management and operations optimization, currently transforming business environments through **Data Science**.
+I am a professional focused on **Business Intelligence Analytics** and **Data Science**, backed by a strong foundation in **Industrial and Systems Engineering**. I specialize in transforming complex operational data into strategic dashboards, key performance indicators (KPIs), and analytical models that drive data-informed business decisions.
 
-My experience leading technical operations, inventory control, and after-sales strategies allows me to approach data problems with a mindset focused on efficiency, costs, and business value. I automate processes, build predictive models, and translate complex operational variables into structured analytical solutions.
+With proven leadership in technical operations, inventory management, and post-sales strategies, I approach BI challenges with a sharp focus on operational efficiency, cost reduction, and business value. I design dimensional models, build analytical solutions, and automate workflows to bridge the gap between complex operations and executive decision-making.
 
 * 🌍 **Location:** Guasave, Sinaloa, Mexico.
-* 🎓 **Education:** Practical and intensive Data Science specialization through TripleTen LatAm.
+* 🎓 **Education:** Practical and intensive Data Science & Analytics Bootcamp at TripleTen LatAm.
 * 🌐 **Community:** Active member of the Google Developer Program.
-* 🎯 **Interests:** Tech Consulting, Fintech, Banking, and Operations Optimization.
+* 🎯 **Areas of Interest:** Business Intelligence, Tech Consulting, Finance, Fintech, Banking, and Operational Optimization.
 
 ---
 
 ### 🏢 Domain Expertise
 
-* **Operations & After-Sales Optimization:** Extensive experience in service and inventory management within the automotive and agricultural machinery sectors.
-* **Customer Retention & Loyalty:** Development of analytical strategies to mitigate customer churn and maximize Customer Lifetime Value (CLV).
-* **Digital Assets & Web3:** Advanced analytical approach applied to cryptocurrency markets and blockchain technologies for risk assessment and financial decision-making.
+* **Business Intelligence & Operational Optimization:** Design and deployment of executive dashboards, dimensional data modeling, and performance analytics across the automotive and agricultural machinery sectors, collaborating with global brands such as Nissan, Honda, and New Holland.
+* **Customer Analytics & Retention:** Data-driven strategies aimed at mitigating customer churn and maximizing Customer Lifetime Value (*LTV*), transforming operational metrics into actionable post-sales retention plans.
+* **Digital Assets & Risk Assessment:** Advanced analytical approach applied to the cryptocurrency market and blockchain technologies for trend analysis, risk evaluation, and financial decision support.
 
 ---
 
