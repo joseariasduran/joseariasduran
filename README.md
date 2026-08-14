@@ -19,22 +19,22 @@
 
 ### 👨‍💻 Sobre mí
 
-Soy un profesional con una sólida trayectoria en **Ingeniería Industrial y de Sistemas**, especializado en la gestión de servicios y optimización de operaciones, actualmente transformando entornos de negocio a través de la **Ciencia de Datos**. 
+Soy un profesional enfocado en **Business Intelligence Analytics** y **Ciencia de Datos**, respaldado por una sólida trayectoria en **Ingeniería Industrial y de Sistemas**. Me especializo en transformar datos operativos complejos en tableros estratégicos (*dashboards*), indicadores clave de rendimiento (KPIs) y modelos analíticos que impulsan la toma de decisiones empresariales.
 
-Mi experiencia liderando operaciones técnicas, control de inventarios y estrategias de posventa me permite abordar los problemas de datos con una mentalidad orientada a la eficiencia, los costos y el valor empresarial. Automatizo procesos, construyo modelos predictivos y traduzco variables operativas complejas en soluciones analíticas estructuradas.
+Gracias a mi experiencia liderando operaciones técnicas, control de inventarios y gestión de posventa, abordo los retos de BI con un enfoque claro en la eficiencia operativa, la reducción de costos y la generación de valor directo al negocio. Diseño modelos dimensionales, construyo soluciones analíticas y automatizo flujos de trabajo para conectar los datos con los objetivos de la dirección.
 
 * 🌍 **Ubicación:** Guasave, Sinaloa, México.
-* 🎓 **Formación:** Especialización práctica e intensiva en Data Science a través de TripleTen LatAm.
+* 🎓 **Formación:** Especialización práctica e intensiva en Data Science & Analytics a través de TripleTen LatAm.
 * 🌐 **Comunidad:** Miembro activo del Google Developer Program.
-* 🎯 **Áreas de Interés:** Consultoría Tecnológica, Finanzas, Fintech, Banca y Optimización Operativa.
+* 🎯 **Áreas de Interés:** Business Intelligence, Consultoría Tecnológica, Finanzas, Fintech, Banca y Optimización Operativa.
 
 ---
 
 ### 🏢 Domain Expertise (Especialidad de Industria)
 
-* **Optimización de Operaciones y Posventa:** Amplia experiencia en la gestión de servicios e inventarios dentro de los sectores automotriz y de maquinaria agrícola, colaborando con marcas globales como Nissan y New Holland.
-* **Retención y Fidelización:** Desarrollo de estrategias analíticas para mitigar la pérdida de clientes (*churn*) y maximizar el ciclo de vida del consumidor (*LTV*).
-* **Activos Digitales:** Enfoque analítico avanzado aplicado al mercado de criptomonedas y tecnologías blockchain para la evaluación de riesgos y toma de decisiones financieras.
+* **Business Intelligence & Optimización Operativa:** Diseño e implementación de tableros ejecutivos, modelado dimensional de datos y análisis de métricas operativas y financieras dentro de los sectores automotriz y de maquinaria agrícola, colaborando con marcas globales como Nissan, Honda y New Holland.
+* **Retención y Fidelización (Customer Analytics):** Análisis analítico orientado a reducir la pérdida de clientes (*churn*) y maximizar el valor de vida del cliente (*LTV*), traduciendo variables operativas en estrategias claras de retención posventa.
+* **Activos Digitales & Evaluación de Riesgos:** Enfoque analítico aplicado al mercado de criptomonedas y tecnologías blockchain para el análisis de tendencias, evaluación de riesgos y soporte en decisiones financieras.
 
 ---
 
