@@ -86,7 +86,7 @@ Con **más de 10 años de liderazgo operacional** en las industrias automotriz, 
   <!-- PROYECTO 3 -->
   <tr>
     <td width="45%" align="center">
-      <img src="./assets/datacenter-streamlit.png" alt="Data Center Capacity Simulator" width="100%" />
+      <img src="./assets/datacenter-streamlit.jpeg" alt="Data Center Capacity Simulator" width="100%" />
     </td>
     <td width="55%" valign="top">
       <h3>🖥️ AI Data Center — Estimación de Capacidad Varada</h3>
