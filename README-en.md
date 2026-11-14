@@ -85,7 +85,7 @@ With **10+ years of operational leadership** across the automotive, motorcycle, 
   <!-- PROJECT 3 -->
   <tr>
     <td width="45%" align="center">
-      <img src="./assets/datacenter-streamlit.png" alt="Data Center Capacity Simulator" width="100%" />
+      <img src="./assets/datacenter-streamlit.jpeg" alt="Data Center Capacity Simulator" width="100%" />
     </td>
     <td width="55%" valign="top">
       <h3>🖥️ AI Data Center — Stranded Capacity Estimation</h3>
@@ -103,7 +103,7 @@ With **10+ years of operational leadership** across the automotive, motorcycle, 
   <!-- PROJECT 4 -->
   <tr>
     <td width="45%" align="center">
-      <img src="./assets/autosmart-preview.png" alt="AutoSmart Retention" width="100%" />
+      <img src="./assets/autosmart-preview.jpeg" alt="AutoSmart Retention" width="100%" />
     </td>
     <td width="55%" valign="top">
       <h3>🚗 AutoSmart-Retention — Automotive Churn Prediction</h3>
