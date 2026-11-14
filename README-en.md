@@ -2,110 +2,179 @@
   <a href="https://github.com/joseariasduran/joseariasduran/blob/main/README.md">🇪🇸 ESP</a> | <a href="https://github.com/joseariasduran/joseariasduran/blob/main/README-en.md">🇬🇧 ENG</a>
 </div>
 
-<h1 align="center">Hi! I'm José Arias Durán 👋</h1>
+<!-- TOP BANNER: Upload a 1200x300px image to /assets/banner.png with background #0D1117 -->
+<!-- If you don't have the banner yet, you can comment out the following block -->
+<p align="center">
+  <img src="./assets/banner.png" alt="José Arias Durán - BI & Data Science" width="100%" />
+</p>
 
-<h3 align="center">Business Intelligence Analyst | Data Scientist | Industrial & Systems Engineer</h3>
+<h1 align="center">José de Jesús Arias Durán</h1>
+
+<h3 align="center">Business Intelligence Analyst • Data Scientist • Industrial & Systems Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/joseariasduran" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:jose.aduran@live.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <img src="https://img.shields.io/badge/Work_Mode-100%25_Remote-2EA043?style=flat-square" alt="100% Remote" />
+  <img src="https://img.shields.io/badge/Location-Sinaloa,_Mexico-30363D?style=flat-square" alt="Location" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 💡 Value Proposition
 
-I am a professional focused on **Business Intelligence Analytics** and **Data Science**, backed by a degree in **Industrial and Systems Engineering** and **10+ years of operational leadership** across the automotive, motorcycle, and agricultural machinery industries. I specialize in transforming complex operational and commercial data into strategic dashboards, Key Performance Indicators (KPIs), and predictive models that drive business decision-making.
+With **10+ years of operational leadership** across the automotive, motorcycle, and agricultural machinery industries (Nissan, Honda, New Holland), I bridge real-world business operations with advanced analytics. I transform complex operational and commercial data into **BI architectures, executive dashboards, and predictive models** that reduce costs, optimize capacity, and maximize customer retention.
 
-Drawing from my background managing technical operations, inventory control, warranties, and after-sales service, I approach analytics challenges with a practical focus on operational efficiency, customer retention, and direct business value. I design dimensional models, automate data extraction workflows, and develop *Machine Learning* and applied AI solutions.
-
-- 🌍 **Location:** Guasave, Sinaloa, Mexico *(Open to 100% remote roles)*.
-- 🎓 **Education:** B.S. in Industrial and Systems Engineering (ITSON) | Intensive Data Science & Analytics Specialization (TripleTen LatAm).
-- 🌐 **Community:** Active member of the Google Developer Program.
-- 🎯 **Areas of Interest:** Business Intelligence, B2B Commercial Analytics, Technology Consulting, Finance/Fintech, and Operational Optimization.
-
----
-
-### 🏢 Domain Expertise
-
-- **Business Intelligence & Operational Optimization:** Design and deployment of executive dashboards, KPI architecture, dimensional data modeling, and operational/financial metric analysis across the automotive, motorcycle, and agricultural machinery sectors (collaborating with global brands such as Nissan, Honda, and New Holland).
-- **Retention, After-Sales & Customer Analytics:** Predictive modeling focused on reducing customer churn, optimizing installed capacity, and maximizing Customer Lifetime Value (LTV), translating operational variables into clear retention strategies.
-- **Commercial Intelligence, NLP & Risk Assessment:** Automated data pipelines (*web scraping*), sentiment analysis, and pain-point detection powered by Generative AI (LLMs), alongside financial simulation and risk assessment (*bootstrapping*).
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Business Intelligence & Visualization:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/DAX-00758F?style=for-the-badge&logo=powerbi&logoColor=white" alt="DAX" />
-  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Power Query" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=googlelookerstudio&logoColor=white" alt="Looker Studio" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-</p>
-
-**Databases & Data Warehousing:**
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /> </a>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
-</p>
-
-**Languages, Machine Learning & GenAI:**
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" /> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /> </a>
-  <img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=python&logoColor=white" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=python&logoColor=white" alt="LightGBM" />
-  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini AI" />
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" /> </a>
-</p>
-<p align="left">
-  <i>*Executive dashboards, advanced DAX calculations, dimensional modeling, web scraping, LLM-powered NLP, and XGBoost / LightGBM optimization.*</i>
-</p>
-
-**Deployment, APIs & Project Management:**
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white" alt="Confluence" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/Loom-5551FF?style=for-the-badge&logo=loom&logoColor=white" alt="Loom" />
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>📊 Business Intelligence</h4>
+      <p>Dimensional modeling (Star Schema), advanced <b>DAX</b> measures, ETL pipelines in <b>Power Query/SQL</b>, and executive storytelling in <b>Power BI</b>.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🤖 Data Science & GenAI</h4>
+      <p>Classification and time-series forecasting models (<b>XGBoost, LightGBM</b>), risk simulation, <i>web scraping</i>, and NLP extraction with <b>LLMs (Gemini)</b>.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>⚙️ Operations & Processes</h4>
+      <p>Industrial Engineering applied to after-sales KPIs, inventory optimization, warranty management, and loyalty strategies (<b>Churn & LTV</b>).</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects Showcase
 
-| Project | Description | Algorithms / Tools |
-| :--- | :--- | :--- |
-| 🎯 **[RepuSense (S10-26)](https://github.com/No-Country-simulation/S10-26-equipo-23)** | AI-powered B2B lead generation and reputation intelligence platform. Scrapes business data and reviews, detects pain points with **Gemini AI**, and drafts personalized outreach emails. | Python, Web Scraping, Gemini AI, PostgreSQL, NestJS, React |
-| 🏥 **[HealthDemand (S08-26)](https://github.com/joseariasduran)** | Predictive medical capacity system: patient no-show classification and clinical demand forecasting integrated with an executive dashboard and interactive simulator. | Python, XGBoost, LightGBM, Power BI, Streamlit |
-| 🖥️ **[Data Center Stranded Capacity (S07-26)](https://github.com/joseariasduran)** | Stranded capacity estimation model and risk analysis for AI data centers, paired with an interactive calculator, API, and executive dashboard. | Python, Risk Analysis, FastAPI, Streamlit |
-| 🚗 **[AutoSmart-Retention](https://github.com/joseariasduran/AutoSmart-Retention)** | Machine Learning model focused on predicting customer churn in the automotive sector. **88% accuracy**, designed to drive after-sales retention strategies. | Python, Scikit-Learn, XGBoost, Classification |
-| 🚖 **[Sweet Lift Taxi](https://github.com/joseariasduran/Sweet-Lift-Taxi)** | Hourly airport taxi demand forecasting using time-series analysis (**RMSE < 48**) to optimize fleet logistics during peak hours. | Python, Time Series, LightGBM, Random Forest |
-| 🛢️ **[OilyGiant](https://github.com/joseariasduran/OilyGiant)** | Identification of 200 optimal oil well locations using *bootstrapping* techniques to mitigate financial risk and maximize net profit. | Python, Bootstrapping, Risk Analysis |
-| 🥇 **[Gold Recovery](https://github.com/joseariasduran/Gold-Recovery)** | Predictive model to estimate gold concentration across mining purification stages, optimizing production parameters. | Python, Advanced Regression, EDA |
+<table>
+  <!-- PROJECT 1 -->
+  <tr>
+    <td width="45%" align="center">
+      <img src="./assets/repusense-preview.png" alt="RepuSense Preview" width="100%" />
+    </td>
+    <td width="55%" valign="top">
+      <h3>🎯 RepuSense — B2B Lead & Reputation Intelligence</h3>
+      <p><b>Problem:</b> Sales teams spend hours manually analyzing the digital reputation of B2B prospects.<br/>
+      <b>Solution:</b> Automated pipeline that scrapes business listings and reviews, detects operational pain points using <b>Gemini AI</b>, and drafts personalized cold outreach emails.</p>
+      <p>
+        <code>Python</code> <code>Web Scraping</code> <code>Gemini AI</code> <code>PostgreSQL</code> <code>NestJS</code> <code>React</code>
+      </p>
+      <p>
+        <a href="https://github.com/No-Country-simulation/S10-26-equipo-23"><b>🔗 View Repository</b></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- PROJECT 2 -->
+  <tr>
+    <td width="45%" align="center">
+      <img src="./assets/healthdemand-bi.png" alt="HealthDemand Dashboard" width="100%" />
+    </td>
+    <td width="55%" valign="top">
+      <h3>🏥 HealthDemand — Medical Capacity & No-Show Prediction</h3>
+      <p><b>Problem:</b> Patient no-shows create idle time and lost installed capacity in healthcare clinics.<br/>
+      <b>Solution:</b> Hybrid system featuring <i>No-Show</i> classification (<b>XGBoost</b>) and demand forecasting (<b>LightGBM</b>), integrated with an executive <b>Power BI</b> dashboard and <b>Streamlit</b> simulator.</p>
+      <p>
+        <code>Power BI</code> <code>DAX</code> <code>Python</code> <code>XGBoost</code> <code>LightGBM</code> <code>Streamlit</code>
+      </p>
+      <p>
+        <a href="https://github.com/joseariasduran"><b>🔗 View Repository</b></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- PROJECT 3 -->
+  <tr>
+    <td width="45%" align="center">
+      <img src="./assets/datacenter-streamlit.png" alt="Data Center Capacity Simulator" width="100%" />
+    </td>
+    <td width="55%" valign="top">
+      <h3>🖥️ AI Data Center — Stranded Capacity Estimation</h3>
+      <p><b>Problem:</b> AI infrastructure faces financial risks due to underutilized power and compute capacity.<br/>
+      <b>Solution:</b> Analytical risk model and interactive executive calculator deployed via API to simulate utilization scenarios.</p>
+      <p>
+        <code>Python</code> <code>Risk Analysis</code> <code>FastAPI</code> <code>Streamlit</code> <code>Docker</code>
+      </p>
+      <p>
+        <a href="https://github.com/joseariasduran"><b>🔗 View Repository</b></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- PROJECT 4 -->
+  <tr>
+    <td width="45%" align="center">
+      <img src="./assets/autosmart-preview.png" alt="AutoSmart Retention" width="100%" />
+    </td>
+    <td width="55%" valign="top">
+      <h3>🚗 AutoSmart-Retention — Automotive Churn Prediction</h3>
+      <p><b>Impact:</b> <b>88% accuracy</b> identifying customers at risk of attrition in automotive after-sales services.<br/>
+      <b>Solution:</b> Machine Learning pipeline translating maintenance and billing patterns into actionable retention alerts.</p>
+      <p>
+        <code>Python</code> <code>Scikit-Learn</code> <code>XGBoost</code> <code>Customer Analytics</code>
+      </p>
+      <p>
+        <a href="https://github.com/joseariasduran/AutoSmart-Retention"><b>🔗 View Repository</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>📂 View More Data Science & Time-Series Projects (Click to expand)</b></summary>
+  <br/>
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Focus & Results</th>
+      <th>Stack</th>
+    </tr>
+    <tr>
+      <td>🚖 <a href="https://github.com/joseariasduran/Sweet-Lift-Taxi"><b>Sweet Lift Taxi</b></a></td>
+      <td>Hourly airport taxi demand forecasting (<b>RMSE &lt; 48</b>) to optimize fleet logistics during peak hours.</td>
+      <td>Python, LightGBM, Random Forest, Time Series</td>
+    </tr>
+    <tr>
+      <td>🛢️ <a href="https://github.com/joseariasduran/OilyGiant"><b>OilyGiant</b></a></td>
+      <td>Selection of 200 optimal oil well locations using <i>bootstrapping</i> to minimize financial risk and maximize net profit.</td>
+      <td>Python, Bootstrapping, Simulation</td>
+    </tr>
+    <tr>
+      <td>🥇 <a href="https://github.com/joseariasduran/Gold-Recovery"><b>Gold Recovery</b></a></td>
+      <td>Gold concentration estimation across mining purification stages to optimize operational parameters.</td>
+      <td>Python, Advanced Regression, EDA</td>
+    </tr>
+  </table>
+</details>
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Core Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **BI & Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-00758F?style=flat-square&logo=powerbi&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=googlelookerstudio&logoColor=white) ![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **Databases** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white) |
+| **Data Science & AI** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=python&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logo=python&logoColor=white) ![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) |
+| **APIs & Workflow** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) |
+
+---
+
+### 🎓 Education & Community
+
+* **B.S. in Industrial and Systems Engineering** — Instituto Tecnológico de Sonora (ITSON)
+* **Data Science & Business Analytics** — TripleTen LatAm
+* **Active Member** — Google Developer Program
+
+---
+
+### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joseariasduran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" alt="José's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseariasduran&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseariasduran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" alt="Top Languages" width="48%" />
 </p>
