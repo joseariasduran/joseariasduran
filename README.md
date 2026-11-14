@@ -4,7 +4,7 @@
 
 <h1 align="center">¡Hola! Soy José Arias Durán 👋</h1>
 
-<h3 align="center">Business Intelligence Analytics | Data Scientist | Analista de Procesos y Datos</h3>
+<h3 align="center">Business Intelligence Analyst | Data Scientist | Ingeniero Industrial y de Sistemas</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/joseariasduran" target="_blank">
@@ -19,22 +19,22 @@
 
 ### 👨‍💻 Sobre mí
 
-Soy un profesional enfocado en **Business Intelligence Analytics** y **Ciencia de Datos**, respaldado por una sólida trayectoria en **Ingeniería Industrial y de Sistemas**. Me especializo en transformar datos operativos complejos en tableros estratégicos (*dashboards*), indicadores clave de rendimiento (KPIs) y modelos analíticos que impulsan la toma de decisiones empresariales.
+Soy un profesional enfocado en **Business Intelligence Analytics** y **Ciencia de Datos**, respaldado por una formación en **Ingeniería Industrial y de Sistemas** y **más de 10 años de liderazgo operacional** en las industrias automotriz, motocicletas y maquinaria agrícola. Me especializo en transformar datos operativos y comerciales complejos en tableros estratégicos (*dashboards*), indicadores clave de rendimiento (KPIs) y modelos predictivos que impulsan la toma de decisiones.
 
-Gracias a mi experiencia liderando operaciones técnicas, control de inventarios y gestión de posventa, abordo los retos de BI con un enfoque claro en la eficiencia operativa, la reducción de costos y la generación de valor directo al negocio. Diseño modelos dimensionales, construyo soluciones analíticas y automatizo flujos de trabajo para conectar los datos con los objetivos de la dirección.
+Gracias a mi trayectoria gestionando operaciones técnicas, control de inventarios, garantías y posventa, abordo los retos de analítica con un enfoque práctico en la eficiencia operativa, la retención de clientes y la generación de valor directo al negocio. Diseño modelos dimensionales, automatizo flujos de extracción de datos y desarrollo soluciones de *Machine Learning* e IA aplicada.
 
-* 🌍 **Ubicación:** Guasave, Sinaloa, México.
-* 🎓 **Formación:** Especialización práctica e intensiva en Data Science & Analytics a través de TripleTen LatAm.
-* 🌐 **Comunidad:** Miembro activo del Google Developer Program.
-* 🎯 **Áreas de Interés:** Business Intelligence, Consultoría Tecnológica, Finanzas, Fintech, Banca y Optimización Operativa.
+- 🌍 **Ubicación:** Guasave, Sinaloa, México *(Disponible para roles 100% remotos)*.
+- 🎓 **Formación:** Ingeniero Industrial y de Sistemas (ITSON) | Especialización intensiva en Data Science & Analytics (TripleTen LatAm).
+- 🌐 **Comunidad:** Miembro activo del Google Developer Program.
+- 🎯 **Áreas de Interés:** Business Intelligence, Analítica Comercial B2B, Consultoría Tecnológica, Finanzas/Fintech y Optimización Operativa.
 
 ---
 
 ### 🏢 Domain Expertise (Especialidad de Industria)
 
-* **Business Intelligence & Optimización Operativa:** Diseño e implementación de tableros ejecutivos, modelado dimensional de datos y análisis de métricas operativas y financieras dentro de los sectores automotriz y de maquinaria agrícola, colaborando con marcas globales como Nissan, Honda y New Holland.
-* **Retención y Fidelización (Customer Analytics):** Análisis analítico orientado a reducir la pérdida de clientes (*churn*) y maximizar el valor de vida del cliente (*LTV*), traduciendo variables operativas en estrategias claras de retención posventa.
-* **Activos Digitales & Evaluación de Riesgos:** Enfoque analítico aplicado al mercado de criptomonedas y tecnologías blockchain para el análisis de tendencias, evaluación de riesgos y soporte en decisiones financieras.
+- **Business Intelligence & Optimización Operativa:** Diseño e implementación de tableros ejecutivos, arquitectura de KPIs, modelado dimensional y análisis de métricas operativas y financieras en los sectores automotriz, motocicletas y maquinaria agrícola (colaborando con marcas como Nissan, Honda y New Holland).
+- **Retención, Posventa & Customer Analytics:** Modelado predictivo enfocado en reducir la pérdida de clientes (*churn*), optimizar la capacidad instalada y maximizar el valor de vida del cliente (*LTV*), traduciendo variables operativas en estrategias de fidelización.
+- **Inteligencia Comercial, NLP & Evaluación de Riesgos:** Automatización de pipelines de datos (*web scraping*), análisis de sentimientos y detección de puntos de dolor mediante IA generativa (LLMs), así como simulación financiera y evaluación de riesgos (*bootstrapping*).
 
 ---
 
@@ -44,9 +44,11 @@ Gracias a mi experiencia liderando operaciones técnicas, control de inventarios
 <p align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/DAX-00758F?style=for-the-badge&logo=powerbi&logoColor=white" alt="DAX" />
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Power Query" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=googlelookerstudio&logoColor=white" alt="Looker Studio" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
 **Bases de Datos & Data Warehousing:**
@@ -56,20 +58,25 @@ Gracias a mi experiencia liderando operaciones técnicas, control de inventarios
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
 </p>
 
-**Lenguajes y Librerías de Datos:**
+**Lenguajes, Machine Learning & GenAI:**
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" /> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /> </a>
+  <img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=python&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=python&logoColor=white" alt="LightGBM" />
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini AI" />
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" /> </a>
 </p>
 <p align="left">
-  <i>*Dashboards interactivos, cálculos avanzados con DAX, modelado dimensional, Análisis EDA y optimización con XGBoost / LightGBM.*</i>
+  <i>*Dashboards ejecutivos, cálculos avanzados con DAX, modelado dimensional, web scraping, NLP con LLMs y optimización con XGBoost / LightGBM.*</i>
 </p>
 
-**Workflows y Gestión de Proyectos:**
+**Despliegue, APIs & Gestión de Proyectos:**
 <p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white" alt="Confluence" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
@@ -82,10 +89,13 @@ Gracias a mi experiencia liderando operaciones técnicas, control de inventarios
 
 | Proyecto | Descripción | Algoritmos / Herramientas |
 | :--- | :--- | :--- |
-| 🚗 **[AutoSmart-Retention](https://github.com/joseariasduran/AutoSmart-Retention)** | Modelo de Machine Learning enfocado en predecir el abandono de clientes (*churn*) en el sector automotriz. **Precisión del 88%**, diseñado para la toma de decisiones en estrategias de retención posventa. | Python, Scikit-Learn, XGBoost, Clasificación |
-| 🛢️ **[OilyGiant](https://github.com/joseariasduran/OilyGiant)** | Identificación de 200 ubicaciones óptimas para pozos petroleros mediante técnicas de *bootstrapping*. Mitigación de riesgos financieros y maximización del beneficio neto. | Python, Bootstrapping, Análisis de Riesgo |
-| 🥇 **[Gold Recovery](https://github.com/joseariasduran/Gold-Recovery)** | Modelo predictivo para estimar la concentración de oro en los procesos de purificación minera, optimizando los parámetros de producción en tiempo real. | Python, Regresión Avanzada, EDA |
-| 🚖 **[Sweet Lift Taxi](https://github.com/joseariasduran/Sweet-Lift-Taxi)** | Predicción de demanda horaria de taxis en aeropuertos utilizando análisis de series temporales para optimizar la logística de flotas en horas pico. | Python, Series Temporales, LightGBM |
+| 🎯 **[RepuSense (S10-26)](https://github.com/No-Country-simulation/S10-26-equipo-23)** | Plataforma de inteligencia comercial y reputación B2B impulsada por IA. Extrae datos y reseñas de negocios, detecta puntos de dolor con **Gemini AI** y redacta correos personalizados de primer contacto. | Python, Web Scraping, Gemini AI, PostgreSQL, NestJS, React |
+| 🏥 **[HealthDemand (S08-26)](https://github.com/joseariasduran)** | Sistema predictivo de capacidad médica: clasificación de ausentismo (*No-Show*) y pronóstico de demanda clínica integrado con tablero ejecutivo y simulador interactivo. | Python, XGBoost, LightGBM, Power BI, Streamlit |
+| 🖥️ **[Data Center Stranded Capacity (S07-26)](https://github.com/joseariasduran)** | Modelo de estimación de capacidad varada y análisis de riesgo en centros de datos de IA, acompañado de calculadora interactiva, API y dashboard ejecutivo. | Python, Análisis de Riesgo, FastAPI, Streamlit |
+| 🚗 **[AutoSmart-Retention](https://github.com/joseariasduran/AutoSmart-Retention)** | Modelo de Machine Learning enfocado en predecir el abandono de clientes (*churn*) en el sector automotriz. **Precisión del 88%**, diseñado para estrategias de retención posventa. | Python, Scikit-Learn, XGBoost, Clasificación |
+| 🚖 **[Sweet Lift Taxi](https://github.com/joseariasduran/Sweet-Lift-Taxi)** | Predicción de demanda horaria de taxis en aeropuertos mediante análisis de series temporales (**RMSE < 48**) para optimizar la logística de flotas en horas pico. | Python, Series Temporales, LightGBM, Random Forest |
+| 🛢️ **[OilyGiant](https://github.com/joseariasduran/OilyGiant)** | Identificación de 200 ubicaciones óptimas para pozos petroleros mediante técnicas de *bootstrapping* para mitigar riesgos financieros y maximizar el beneficio neto. | Python, Bootstrapping, Análisis de Riesgo |
+| 🥇 **[Gold Recovery](https://github.com/joseariasduran/Gold-Recovery)** | Modelo predictivo para estimar la concentración de oro en los procesos de purificación minera, optimizando parámetros de producción. | Python, Regresión Avanzada, EDA |
 
 ---
 
