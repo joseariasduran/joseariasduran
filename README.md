@@ -5,7 +5,7 @@
 <!-- BANNER SUPERIOR: Sube una imagen de 1200x300px a /assets/banner.png con fondo #0D1117 -->
 <!-- Si aún no tienes el banner, puedes comentar la siguiente línea -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joseariasduran/joseariasduran/main/assets/banner.svg?sanitize=true" alt="José de Jesús Arias Durán - Business Intelligence Analyst | Data Scientist | Industrial Engineer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:38BDF8&height=200&section=header&text=Jos%C3%A9%20Arias%20Dur%C3%A1n&fontSize=48&fontColor=F0F6FC&fontAlignY=38&desc=Business%20Intelligence%20Analyst%20%7C%20Data%20Scientist%20%7C%20Industrial%20Engineer&descAlignY=60&descSize=18" width="100%" />
 </p>
 
 <h1 align="center">José de Jesús Arias Durán</h1>
