@@ -104,7 +104,7 @@ Con **más de 10 años de liderazgo operacional** en las industrias automotriz, 
   <!-- PROYECTO 4 -->
   <tr>
     <td width="45%" align="center">
-      <img src="./assets/autosmart-preview.png" alt="AutoSmart Retention" width="100%" />
+      <img src="./assets/autosmart-preview.jpeg" alt="AutoSmart Retention" width="100%" />
     </td>
     <td width="55%" valign="top">
       <h3>🚗 AutoSmart-Retention — Predicción de Churn Automotriz</h3>
