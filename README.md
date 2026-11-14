@@ -8,10 +8,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:38BDF8&height=200&section=header&text=Jos%C3%A9%20Arias%20Dur%C3%A1n&fontSize=48&fontColor=F0F6FC&fontAlignY=38&desc=Business%20Intelligence%20Analyst%20%7C%20Data%20Scientist%20%7C%20Industrial%20Engineer&descAlignY=60&descSize=18" width="100%" />
 </p>
 
-<h1 align="center">José de Jesús Arias Durán</h1>
-
-<h3 align="center">Business Intelligence Analyst • Data Scientist • Industrial & Systems Engineer</h3>
-
 <p align="center">
   <a href="https://linkedin.com/in/joseariasduran" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
