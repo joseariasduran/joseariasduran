@@ -7,8 +7,6 @@
 <p align="center">
   <img src="./assets/banner.svg" alt="José de Jesús Arias Durán - Business Intelligence Analyst | Data Scientist | Industrial Engineer" width="100%" />
 </p>
-/h3>
-
 <p align="center">
   <a href="https://linkedin.com/in/joseariasduran" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
