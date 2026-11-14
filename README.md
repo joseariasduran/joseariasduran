@@ -5,7 +5,7 @@
 <!-- BANNER SUPERIOR: Sube una imagen de 1200x300px a /assets/banner.png con fondo #0D1117 -->
 <!-- Si aún no tienes el banner, puedes comentar la siguiente línea -->
 <p align="center">
-  <img src="./assets/banner.png" alt="José Arias Durán - BI & Data Science" width="100%" />
+  <img src="./assets/banner.svg" alt="José de Jesús Arias Durán - Business Intelligence Analyst | Data Scientist | Industrial Engineer" width="100%" />
 </p>
 
 <h1 align="center">José de Jesús Arias Durán</h1>
