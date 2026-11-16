@@ -17,8 +17,7 @@
   </a>
   <img src="https://img.shields.io/badge/Modalidad-100%25_Remoto-2EA043?style=flat-square" alt="100% Remoto" />
   <img src="https://img.shields.io/badge/Ubicación-Sinaloa,_México-30363D?style=flat-square" alt="Ubicación" />
- <a href="[https://joseariasduran.github.io/homepage/](https://joseariasduran.github.io/homepage/)" target="_blank"><img src="[https://img.shields.io/badge/Portafolio_Web-Ver_en_Vivo-38BDF8?style=flat-square&logo=safari&logoColor=white](https://img.shields.io/badge/Portafolio_Web-Ver_en_Vivo-38BDF8?style=flat-square&logo=safari&logoColor=white)" alt="Portafolio" />
- </a>
+ <a href="[https://joseariasduran.github.io/homepage/](https://joseariasduran.github.io/homepage/)" target="_blank"><img src="[https://img.shields.io/badge/Portafolio_Web-Ver_en_Vivo-38BDF8?style=flat-square](https://img.shields.io/badge/Portafolio_Web-Ver_en_Vivo-38BDF8?style=flat-square)" alt="Portafolio" /></a>
 </p>
 
 ---
