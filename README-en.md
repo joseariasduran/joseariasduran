@@ -2,17 +2,19 @@
   <a href="https://github.com/joseariasduran/joseariasduran/blob/main/README.md">🇪🇸 ESP</a> | <a href="https://github.com/joseariasduran/joseariasduran/blob/main/README-en.md">🇬🇧 ENG</a>
 </div>
 
-<!-- TOP BANNER: Upload a 1200x300px image to /assets/banner.png with background #0D1117 -->
-<!-- If you don't have the banner yet, you can comment out the following block -->
 <p align="center">
   <img src="./assets/banner.svg" alt="José de Jesús Arias Durán - Business Intelligence Analyst | Data Scientist | Industrial Engineer" width="100%" />
 </p>
+
 <p align="center">
   <a href="https://linkedin.com/in/joseariasduran" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:jose.aduran@live.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://joseariasduran.github.io/homepage/" target="_blank">
+    <img src="https://img.shields.io/badge/Web_Portfolio-Live_Demo-38BDF8?style=flat-square" alt="Web Portfolio" />
   </a>
   <img src="https://img.shields.io/badge/Work_Mode-100%25_Remote-2EA043?style=flat-square" alt="100% Remote" />
   <img src="https://img.shields.io/badge/Location-Sinaloa,_Mexico-30363D?style=flat-square" alt="Location" />
@@ -161,9 +163,9 @@ With **10+ years of operational leadership** across the automotive, motorcycle, 
 
 ### 🎓 Education & Community
 
-* **B.S. in Industrial and Systems Engineering** — Instituto Tecnológico de Sonora (ITSON)
-* **Data Science & Business Analytics** — TripleTen LatAm
-* **Active Member** — Google Developer Program
+- **B.S. in Industrial and Systems Engineering** — Instituto Tecnológico de Sonora (ITSON)
+- **Data Science & Business Analytics** — TripleTen LatAm
+- **Active Member** — Google Developer Program
 
 ---
 
